@@ -4,6 +4,14 @@ module.exports = {
     title: "前端的设计模式系列",
     description: "前端的设计模式系列 by windliang",
 
+    plugins: [
+        [
+            "vuepress-plugin-baidu-tongji-analytics",
+            {
+                key: "ff378ce1bb78883924b7f4fca85a70de",
+            },
+        ],
+    ],
     // 主题和它的配置
     theme: "@qcyblm/vpx",
     themeConfig: {

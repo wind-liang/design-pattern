@@ -1,0 +1,14 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@qcyblm/vuepress-theme-vpx": "^1.0.7",
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}

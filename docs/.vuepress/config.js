@@ -11,11 +11,6 @@ module.exports = {
         lastUpdated: "Last Updated",
         nav: [
             {
-                text: "Github",
-                link: "https://github.com/mqyqingfeng",
-                icon: "fab fa-github",
-            },
-            {
                 text: "知乎",
                 link: "https://www.zhihu.com/people/wang-liang-61-22",
             },
@@ -75,7 +70,9 @@ module.exports = {
         repo: {
             platform: 'https://github.com/',  // 填写 Git 服务商链接
             icon: 'fab fa-github',  // 填写 icon 图标 (可选)
-            label: '查看源码',
+            label: 'github',
+            owner: 'wind-liang',  //  填写 Git 项目仓库所有者
+            repositories: 'design-pattern',  // 填写 Git 项目仓库
         },
     },
 };

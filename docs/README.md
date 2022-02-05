@@ -6,8 +6,8 @@
 
 在线阅读地址：[https://pattern.windliang.wang/](https://pattern.windliang.wang/)
 
-前端设计模式系列，持续更新中...
+**持续更新中...**
 
-公众号持续更新欢迎关注，觉得不错的话可以在 [github](https://github.com/wind-liang/design-pattern) 点亮 `star` ，也可以赞赏支持~
+公众号会第一时间更新，欢迎关注，觉得不错的话可以在 [github](https://github.com/wind-liang/design-pattern) 点亮 `star` ，也可以赞赏支持~
 
 ![](https://windliang.oss-cn-beijing.aliyuncs.com/leetcode.jpg)

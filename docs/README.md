@@ -2,6 +2,12 @@
 
 大部分讲设计模式的文章都是使用的 `Java`、`C++` 这样的以类为基础的静态类型语言，作为前端开发者，`js` 这门基于原型的动态语言，函数成为了一等公民，在实现一些设计模式上稍显不同，甚至简单到不像使用了设计模式，有时候也会产生些困惑。
 
-下面按照「场景」-「设计模式定义」- 「代码实现」-「总」的顺序来总结一下，如有不当之处，欢迎交流讨论。
+文章会按照「场景」-「设计模式定义」- 「代码实现」-「总」的顺序来总结一下，会有 `java` 和 `js` 两种语言示例便于对比，如有不当之处，欢迎交流讨论。
+
+在线阅读地址：[https://pattern.windliang.wang/](https://pattern.windliang.wang/)
 
 前端设计模式系列，持续更新中...
+
+公众号持续更新欢迎关注，觉得不错的话可以在 [github](https://github.com/wind-liang/design-pattern) 点亮 `star` ，也可以赞赏支持~
+
+![](https://windliang.oss-cn-beijing.aliyuncs.com/leetcode.jpg)

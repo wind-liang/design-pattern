@@ -10,6 +10,7 @@ module.exports = {
         search: false,
         lastUpdated: "Last Updated",
         nav: [
+            { text: "Home", link: "/", icon: "fa fa-home" },
             {
                 text: "知乎",
                 link: "https://www.zhihu.com/people/wang-liang-61-22",
@@ -68,11 +69,11 @@ module.exports = {
             beian: "沪ICP备2021019937号-1", // ICP 备号
         },
         repo: {
-            platform: 'https://github.com/',  // 填写 Git 服务商链接
-            icon: 'fab fa-github',  // 填写 icon 图标 (可选)
-            label: 'github',
-            owner: 'wind-liang',  //  填写 Git 项目仓库所有者
-            repositories: 'design-pattern',  // 填写 Git 项目仓库
+            platform: "https://github.com/", // 填写 Git 服务商链接
+            icon: "fab fa-github", // 填写 icon 图标 (可选)
+            label: "github",
+            owner: "wind-liang", //  填写 Git 项目仓库所有者
+            repositories: "design-pattern", // 填写 Git 项目仓库
         },
     },
 };

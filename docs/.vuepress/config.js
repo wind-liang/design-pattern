@@ -32,6 +32,16 @@ module.exports = {
         ],
         sidebar: [
             {
+                title: "创建型",
+                collapsable: false, // 不折叠
+                children: [
+                    {
+                        title: "单例模式",
+                        path: "/posts/前端的设计模式系列-单例模式",
+                    },
+                ],
+            },
+            {
                 title: "结构型",
                 collapsable: false, // 不折叠
                 children: [

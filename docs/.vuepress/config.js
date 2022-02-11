@@ -75,6 +75,10 @@ module.exports = {
                         title: "责任链模式",
                         path: "/posts/前端的设计模式系列-责任链模式",
                     },
+                    {
+                        title: "模版模式",
+                        path: "/posts/前端的设计模式系列-模版模式",
+                    },
                 ],
             },
         ],

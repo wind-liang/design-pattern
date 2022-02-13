@@ -53,6 +53,10 @@ module.exports = {
                         title: "装饰器模式",
                         path: "/posts/前端的设计模式系列-装饰器模式",
                     },
+                    {
+                        title: "适配器模式",
+                        path: "/posts/前端的设计模式系列-适配器模式",
+                    },
                 ],
             },
             {

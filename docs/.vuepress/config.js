@@ -39,6 +39,10 @@ module.exports = {
                         title: "单例模式",
                         path: "/posts/前端的设计模式系列-单例模式",
                     },
+                    {
+                        title: "建造者模式",
+                        path: "/posts/前端的设计模式系列-建造者模式",
+                    },
                 ],
             },
             {

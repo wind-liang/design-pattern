@@ -97,6 +97,16 @@ module.exports = {
                     },
                 ],
             },
+            {
+                title: "未使用过",
+                collapsable: true, // 不折叠
+                children: [
+                    {
+                        title: "享元模式",
+                        path: "/posts/前端的设计模式系列-享元模式",
+                    },
+                ],
+            },
         ],
         footer: {
             // 页脚信息

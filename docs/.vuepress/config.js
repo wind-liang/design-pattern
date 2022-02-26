@@ -91,6 +91,10 @@ module.exports = {
                         title: "模版模式",
                         path: "/posts/前端的设计模式系列-模版模式",
                     },
+                    {
+                        title: "迭代器模式",
+                        path: "/posts/前端的设计模式系列-迭代器模式",
+                    },
                 ],
             },
         ],

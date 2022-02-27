@@ -105,6 +105,10 @@ module.exports = {
                         title: "享元模式",
                         path: "/posts/前端的设计模式系列-享元模式",
                     },
+                    {
+                        title: "原型模式",
+                        path: "/posts/前端的设计模式系列-原型模式",
+                    },
                 ],
             },
         ],

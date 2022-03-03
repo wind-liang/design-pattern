@@ -109,6 +109,10 @@ module.exports = {
                         title: "原型模式",
                         path: "/posts/前端的设计模式系列-原型模式",
                     },
+                    {
+                        title: "组合模式",
+                        path: "/posts/前端的设计模式系列-组合模式",
+                    },
                 ],
             },
         ],

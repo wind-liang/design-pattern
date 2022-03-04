@@ -113,6 +113,10 @@ module.exports = {
                         title: "组合模式",
                         path: "/posts/前端的设计模式系列-组合模式",
                     },
+                    {
+                        title: "状态模式",
+                        path: "/posts/前端的设计模式系列-状态模式",
+                    },
                 ],
             },
         ],

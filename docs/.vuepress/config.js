@@ -117,6 +117,10 @@ module.exports = {
                         title: "状态模式",
                         path: "/posts/前端的设计模式系列-状态模式",
                     },
+                    {
+                        title: "命令模式",
+                        path: "/posts/前端的设计模式系列-命令模式",
+                    },
                 ],
             },
         ],

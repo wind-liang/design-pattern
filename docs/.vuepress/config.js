@@ -121,6 +121,10 @@ module.exports = {
                         title: "命令模式",
                         path: "/posts/前端的设计模式系列-命令模式",
                     },
+                    {
+                        title: "解释器模式",
+                        path: "/posts/前端的设计模式系列-解释器模式",
+                    },
                 ],
             },
         ],

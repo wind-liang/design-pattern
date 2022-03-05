@@ -102,36 +102,54 @@ module.exports = {
                 collapsable: true, // 不折叠
                 children: [
                     {
-                        title: "享元模式",
-                        path: "/posts/前端的设计模式系列-享元模式",
+                        title: "创建型",
+                        collapsable: false, // 不折叠
+                        children: [
+                            {
+                                title: "原型模式",
+                                path: "/posts/前端的设计模式系列-原型模式",
+                            },
+                        ],
                     },
                     {
-                        title: "原型模式",
-                        path: "/posts/前端的设计模式系列-原型模式",
+                        title: "结构型",
+                        collapsable: false, // 不折叠
+                        children: [
+                            {
+                                title: "享元模式",
+                                path: "/posts/前端的设计模式系列-享元模式",
+                            },
+                            {
+                                title: "组合模式",
+                                path: "/posts/前端的设计模式系列-组合模式",
+                            },
+                        ],
                     },
                     {
-                        title: "组合模式",
-                        path: "/posts/前端的设计模式系列-组合模式",
-                    },
-                    {
-                        title: "状态模式",
-                        path: "/posts/前端的设计模式系列-状态模式",
-                    },
-                    {
-                        title: "命令模式",
-                        path: "/posts/前端的设计模式系列-命令模式",
-                    },
-                    {
-                        title: "解释器模式",
-                        path: "/posts/前端的设计模式系列-解释器模式",
-                    },
-                    {
-                        title: "中介者模式",
-                        path: "/posts/前端的设计模式系列-中介者模式",
-                    },
-                    {
-                        title: "备忘录模式",
-                        path: "/posts/前端的设计模式系列-备忘录模式",
+                        title: "行为型",
+                        collapsable: false, // 不折叠
+                        children: [
+                            {
+                                title: "状态模式",
+                                path: "/posts/前端的设计模式系列-状态模式",
+                            },
+                            {
+                                title: "命令模式",
+                                path: "/posts/前端的设计模式系列-命令模式",
+                            },
+                            {
+                                title: "解释器模式",
+                                path: "/posts/前端的设计模式系列-解释器模式",
+                            },
+                            {
+                                title: "中介者模式",
+                                path: "/posts/前端的设计模式系列-中介者模式",
+                            },
+                            {
+                                title: "备忘录模式",
+                                path: "/posts/前端的设计模式系列-备忘录模式",
+                            },
+                        ],
                     },
                 ],
             },

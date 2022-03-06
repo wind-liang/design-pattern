@@ -123,6 +123,10 @@ module.exports = {
                                 title: "组合模式",
                                 path: "/posts/前端的设计模式系列-组合模式",
                             },
+                            {
+                                title: "桥接模式",
+                                path: "/posts/前端的设计模式系列-桥接模式",
+                            },
                         ],
                     },
                     {

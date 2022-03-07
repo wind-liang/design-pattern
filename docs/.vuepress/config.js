@@ -88,7 +88,7 @@ module.exports = {
                         path: "/posts/前端的设计模式系列-责任链模式",
                     },
                     {
-                        title: "模版模式",
+                        title: "模版方法模式",
                         path: "/posts/前端的设计模式系列-模版模式",
                     },
                     {
@@ -108,6 +108,10 @@ module.exports = {
                             {
                                 title: "原型模式",
                                 path: "/posts/前端的设计模式系列-原型模式",
+                            },
+                            {
+                                title: "工厂模式",
+                                path: "/posts/前端的设计模式系列-工厂模式",
                             },
                         ],
                     },

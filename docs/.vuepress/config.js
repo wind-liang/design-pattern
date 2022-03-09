@@ -98,6 +98,10 @@ module.exports = {
                 ],
             },
             {
+                title: "基本原则",
+                path: "/posts/前端的设计模式系列-基本原则",
+            },
+            {
                 title: "未使用过",
                 collapsable: true, // 不折叠
                 children: [

@@ -28,6 +28,7 @@ module.exports = {
                 link: "https://coursesub.top/",
             },
             { text: "leetcode详细题解", link: "https://leetcode.wang" },
+            { text: "Vue2源码详解", link: "https://vue.windliang.wang/" },
             { text: "windliang博客", link: "https://windliang.wang" },
         ],
         sidebar: [

@@ -20,7 +20,7 @@
 
 上边两本共同的缺点是作者的时代还是在 `jQuery` ，举的例子也都还是在操纵 `dom` ， `Vue`/`React` 的时代到来后，平常开发中我们已经不去操纵 `dom` 了，这也是我为什么又总结了一遍的原因之一。
 
-* 极客时间王争的 [设计模式之美](http://gk.link/a/11c3E)，总结的很好，但遗憾的是更适合后端来看，很多场景也都是 `java` 开发中的场景。
+* 极客时间王争的 [设计模式之美](http://gk.link/a/11c3G)，总结的很好，但遗憾的是更适合后端来看，很多场景也都是 `java` 开发中的场景。
 * 一个 `Youtube` 帅哥总结的 [设计模式系列](https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f&index=2)，这个比较新了，都是结合 `ES6` 语法，缺点还是没有开发中的实际场景。
 * 还有一个 [大而全的网站](https://refactoringguru.cn/design-patterns)， 各种语言都实现了，很多设计模式总结的也非常棒，配图丰富。
 

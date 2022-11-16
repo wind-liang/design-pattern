@@ -24,7 +24,7 @@ module.exports = {
                 link: "https://www.zhihu.com/people/wang-liang-61-22",
             },
             {
-                text: "极客时间优惠",
+                text: "极客时间/掘金优惠",
                 link: "https://coursesub.top/",
             },
             { text: "leetcode详细题解", link: "https://leetcode.wang" },
